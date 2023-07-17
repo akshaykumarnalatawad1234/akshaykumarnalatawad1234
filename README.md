@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Kumar Nalatawad
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Full Stack Web development
 - 📫 How to reach me ... akshaykumarnalatawad1234@gmail.com
 
 <!---
